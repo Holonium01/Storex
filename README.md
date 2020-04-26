@@ -7,7 +7,6 @@ An ecommerce store
 * Security
 * Payment
 * Admin Dashboard
-* MVC Architecture 
 
 
 ## Installation
