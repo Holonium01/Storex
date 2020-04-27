@@ -7,6 +7,8 @@ An ecommerce store
 * Security
 * Payment
 * Admin Dashboard
+* Invoicing 
+* Inventory Management
 
 
 ## Installation
