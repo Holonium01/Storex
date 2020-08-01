@@ -51,7 +51,7 @@
     "dfa": "^1.2.0",
     "dns-prefetch-control": "^0.2.0",
     "dont-sniff-mimetype": "^1.1.0",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.1.1",
     "duplexer3": "^0.1.4",
     "ee-first": "^1.1.1",
     "encodeurl": "^1.0.2",
